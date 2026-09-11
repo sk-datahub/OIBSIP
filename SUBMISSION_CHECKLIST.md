@@ -1,0 +1,27 @@
+# OIBSIP Submission Checklist
+
+- [x] Task 1 — initial inspection
+- [x] Task 1 — mean/median/mode/std
+- [x] Task 1 — monthly and quarterly trends
+- [x] Task 1 — age/gender
+- [x] Task 1 — top 10 product proxies + category revenue
+- [x] Task 1 — correlation heatmap
+- [x] Task 1 — additional visualization
+- [x] Task 1 — observations + 3 recommendations
+- [x] Task 2 — RFM + average purchase value + lifetime-value proxy
+- [x] Task 2 — StandardScaler + Elbow + KMeans
+- [x] Task 2 — 2 scatter plots + cluster size chart
+- [x] Task 2 — cluster profiles + customer types + marketing actions
+- [x] Task 3 — quality report
+- [x] Task 3 — justified missing-value treatment
+- [x] Task 3 — duplicate removal/count
+- [x] Task 3 — formatting + dtype correction
+- [x] Task 3 — IQR outlier detection + decision
+- [x] Task 3 — before/after summary + cleaned CSV
+- [x] Task 4 — class distribution + preprocessing/tokenization
+- [x] Task 4 — TF-IDF + stratified 80/20 split
+- [x] Task 4 — Naive Bayes + Logistic Regression
+- [x] Task 4 — accuracy/precision/recall/F1 + confusion matrices
+- [x] Task 4 — sentiment chart + WordClouds
+- [x] Task 4 — 5 misclassified examples + analysis
+- [x] Task 4 — conclusion and best-model selection
