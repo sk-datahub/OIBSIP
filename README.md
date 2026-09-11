@@ -1,23 +1,69 @@
 # OIBSIP — Data Analytics Final Submission
 
-This package contains the four Level-1 Data Analytics tasks completed against the OASIS INFOBYTE SIP checklist. The supplied task list requires at least 3 Data Analytics tasks; completing all four Level-1 tasks exceeds that minimum.
+This repository contains my Data Analytics tasks completed as part of the OASIS INFOBYTE SIP internship.
 
-## Tasks
+## Completed Tasks
+
 1. EDA on Retail Sales Data
 2. Customer Segmentation Analysis
-3. Cleaning Data
+3. Data Cleaning
 4. Sentiment Analysis
 
-## Structure
-- Each task has a Jupyter Notebook (`.ipynb`).
-- `data/` contains the datasets used.
-- `outputs/` contains generated CSV outputs after notebook execution.
+## Tools & Technologies
 
-## Run
-Install: `pip install pandas numpy matplotlib seaborn scikit-learn wordcloud jupyter nbformat nbconvert`
-Then open the notebooks in Jupyter and Run All.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- NLTK
+- Jupyter Notebook
 
-## Important source note
-Task 1 uses the uploaded 2024 Indian FMCG dataset. Because it has no literal product-name field, the notebook explicitly uses `Brand + Category` as a Product Proxy rather than silently inventing product names.
+## Repository Structure
 
-Task 2 and Task 4 use reproducible practice datasets generated specifically to satisfy the behavioural-segmentation and text-classification workflow.
+- Data-Analytics-Level-1-Task-1-EDA/
+  - Task_1_EDA_Retail_Sales.ipynb
+  - retail_sales_fmcg_2024.csv
+  - README.md
+
+- Data-Analytics-Level-1-Task-2-Customer-Segmentation/
+  - Task_2_Customer_Segmentation.ipynb
+  - customer_transactions.csv
+  - customer_segments.csv
+  - README.md
+
+- Data-Analytics-Level-1-Task-3-Data-Cleaning/
+  - Task_3_Data_Cleaning.ipynb
+  - messy_retail_data.csv
+  - cleaned_retail_data.csv
+  - before_after_summary.csv
+  - README.md
+
+- Data-Analytics-Level-1-Task-4-Sentiment-Analysis/
+  - Task_4_Sentiment_Analysis.ipynb
+  - sentiment_data.csv
+  - README.md
+
+## Project Overview
+
+These projects demonstrate practical skills in exploratory data analysis, customer segmentation, data cleaning, and sentiment analysis using Python and machine learning techniques.
+
+## Key Skills Demonstrated
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Analysis
+- Customer Segmentation
+- K-Means Clustering
+- RFM Analysis
+- Natural Language Processing
+- TF-IDF
+- Machine Learning Classification
+- Model Evaluation
+- Business Insights and Recommendations
+
+## Conclusion
+
+Completing these projects helped develop practical data analytics skills and provided experience working with real-world-style datasets, data preprocessing, visualization, machine learning, and business-oriented analysis.
